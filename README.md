@@ -1,0 +1,1 @@
+In this project, I learned how to create what was essentially a grid with diverse rows. Each row was labelled 1 through 12 but were vastly different from one another. The first row had twelve cells of single sized columns and the final row had one cell of a twelve sized column. In between, we have a row with six two sized columns and another row with two six sized columns. 
